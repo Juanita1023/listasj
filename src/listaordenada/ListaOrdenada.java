@@ -18,10 +18,10 @@ public class ListaOrdenada {
         ListaEnlazada lista= new ListaEnlazada();
         System.out.println("Esta vacia: "+lista.isEmpty());
         
-        lista.addPrimero("juan");
-        lista.addPrimero("maria");
-        lista.addPrimero("juanita");
-        lista.addPrimero("leidy");
+        lista.addPrimero("Adriana");
+        lista.addPrimero("Carlos");
+        lista.addPrimero("Maria");
+        lista.addPrimero("Pedro");
         
         System.out.println("Primer elemento:"+lista.obtener(0));
         System.out.println("segundo elemento:"+lista.obtener(1));

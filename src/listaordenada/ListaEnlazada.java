@@ -12,7 +12,7 @@ package listaordenada;
 //para recorrer la lista entera
 public class ListaEnlazada <T>{
 
-     Nodo <T>inicio;//cabeza de la lista
+    Nodo <T>inicio;//cabeza de la lista
     int size = 0;
 
     public ListaEnlazada() {

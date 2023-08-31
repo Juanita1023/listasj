@@ -11,7 +11,7 @@ package listaordenada;
  */
 public class Nodo<T> {
     
-    T valor; 
+     T valor; 
     Nodo<T> siguiente; 
 
     public Nodo(T valor) {
